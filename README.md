@@ -1,1 +1,1 @@
-# test2
+# point 공부
